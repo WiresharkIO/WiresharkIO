@@ -1,8 +1,8 @@
-### HEY ALL, welcome to this profile. I'm a Student-Developer and my public name is WiresharkIO. I might or definitely commit/share, files/information related to Embedded(&|ML), Optimization and other Learning based approaches.
+### < Hey ALL, welcome to this profile. I'm a Student-Developer and my public name is WiresharkIO > 
 
 ![image](https://user-images.githubusercontent.com/14985440/204823360-4fba3397-cc68-4b97-b738-ed953360abbe.png)
 
-I hope you have a nice time here !!
+### _I hope that, you have a nice time here !!
 
 <!--
 **WiresharkIO/WiresharkIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
