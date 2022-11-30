@@ -1,10 +1,9 @@
-### < Hey Hominidae, welcome to this profile. I'm a Student-Developer and my public name is WiresharkIO > 
-### < I’m currently studying Embedded Systems and Informatics >
-### < I’m currently working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language >
+### < Hey, welcome to this profile > 
+I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language
 
 ![image](https://user-images.githubusercontent.com/14985440/204825767-37546a59-657a-4cff-974d-5335bb47ef22.png)
 
-### I hope that, you have a nice time here !!
+### I hope that, you will have a nice time here !!
 
 <!--
 **WiresharkIO/WiresharkIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
