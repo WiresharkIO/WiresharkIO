@@ -1,9 +1,9 @@
 ### < Hey, welcome to this profile > 
-I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language
+I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
 
-![image](https://user-images.githubusercontent.com/14985440/204825767-37546a59-657a-4cff-974d-5335bb47ef22.png)
+![image](https://user-images.githubusercontent.com/14985440/204906843-d5d5a4ee-b9e8-4a77-93c9-82b63a4fbf84.png)
 
-### I hope that, you will have a nice time here !!
+I hope that, you will have a nice time here !!
 
 <!--
 **WiresharkIO/WiresharkIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
