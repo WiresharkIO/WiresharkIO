@@ -1,7 +1,7 @@
 ### < Hey, welcome to this profile > 
 I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
 
-[![image](https://user-images.githubusercontent.com/14985440/212798484-87c82db3-fa64-4ee0-89ca-3009e6bd034b.png)](https://imgs.xkcd.com/comics/commented.png)
+https://imgs.xkcd.com/comics/commented.png
 credits-xkcd.com
 
 I hope that, you will have a nice time here !!
