@@ -1,7 +1,7 @@
 ### < Hey, welcome to this profile > 
 I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
 
-![image]([https://user-images.githubusercontent.com/14985440/204906843-d5d5a4ee-b9e8-4a77-93c9-82b63a4fbf84.png](https://hrcdn.net/hackerrank/assets/fourohfour-ebdc954bdb49cdc48e95a5ae35a0f0b552e03dfef8056b322e9deff7dc6efe56.png))
+![image]((https://hrcdn.net/hackerrank/assets/fourohfour-ebdc954bdb49cdc48e95a5ae35a0f0b552e03dfef8056b322e9deff7dc6efe56.png))
 credits-xkcd.com
 
 I hope that, you will have a nice time here !!
