@@ -3,7 +3,7 @@ I’m currently studying Embedded Systems and Informatics, and also working as a
 
 https://icons8.com/icon/Rc0Xn5AtE8kX/python
 
-<img src="(https://icons8.com/icon/Rc0Xn5AtE8kX/python)"
+<img src="(https://icons8.com/icon/Rc0Xn5AtE8kX/python).gif"
      alt="Python"
      height="40"
      width="40"/>
