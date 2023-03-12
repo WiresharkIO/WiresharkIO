@@ -1,11 +1,10 @@
 ### < Hey, welcome to this profile > 
 I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
 
-<img src="https://img.icons8.com/dusk/64/000000/python.gif"
+<img src="https://img.icons8.com/cotton/64/000000/python.gif"
      alt="Python"
      height="40"
      width="40"/>
-     
      
 I hope that, you will have a nice time here !!
 
