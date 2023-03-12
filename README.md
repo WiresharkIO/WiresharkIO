@@ -1,14 +1,8 @@
 ### < Hey, welcome to this profile > 
 I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
 
-https://icons8.com/icon/Rc0Xn5AtE8kX/python
-
-<img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python.gif"
-     alt="Animated Image""
-     height="40"
-     width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6.0.0/icons/c.svg"
-     alt="C"
+<img src="https://img.icons8.com/dusk/64/000000/python.png"
+     alt="Python"
      height="40"
      width="40"/>
      
