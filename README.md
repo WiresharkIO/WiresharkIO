@@ -5,6 +5,12 @@ I’m currently studying Embedded Systems and Informatics, and also working as a
      alt="Python"
      height="40"
      width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6.0.0/icons/c.svg"
+     alt="C"
+     height="40"
+     width="40"/>
+     
+     
 I hope that, you will have a nice time here !!
 
 <!--
