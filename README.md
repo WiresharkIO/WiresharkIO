@@ -22,12 +22,12 @@ I'm familiar with :
      
 For now you can check me out more on:
 
-<a href="(https://www.linkedin.com/in/vishal-sivakumar-245a8b7a/)">
+<a href="https://www.linkedin.com/in/vishal-sivakumar-245a8b7a/">
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"
        alt="LinkedIn"
        height="40"
        width="40"/>
-</a><a href="(https://medium.com/@gigageeks10.9)">
+</a><a href="https://medium.com/@gigageeks10.9">
   <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"
        alt="Medium"
        height="40"
