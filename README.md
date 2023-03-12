@@ -1,7 +1,6 @@
 ### < Hey, welcome to this profile > 
 I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
 
-https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png
 
 I hope that, you will have a nice time here !!
 
