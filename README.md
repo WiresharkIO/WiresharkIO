@@ -5,7 +5,7 @@ I’m currently studying Embedded Systems and Informatics, and also working as a
      alt="Python"
      height="40"
      width="40"/>
-<img src="https://img.icons8.com/dusk/64/000000/c-programming.png"
+<img src="https://img.icons8.com/ios/50/000000/c-programming.png"
      alt="C Programming"
      height="40"
      width="40"/>
