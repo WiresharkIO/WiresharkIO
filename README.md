@@ -5,6 +5,10 @@ I’m currently studying Embedded Systems and Informatics, and also working as a
      alt="Python"
      height="40"
      width="40"/>
+<img src="https://img.icons8.com/dusk/64/000000/c-programming.png"
+     alt="C Programming"
+     height="40"
+     width="40"/>
      
 I hope that, you will have a nice time here !!
 
