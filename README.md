@@ -17,7 +17,7 @@ I'm familiar with :
      <img src="https://user-images.githubusercontent.com/14985440/224587223-2a58a48d-5507-477e-9239-a58c4ef27c39.png"
      alt="Cython"
      height="40"
-     width="50"/></a>
+     width="70"/></a>
 <a href="https://en.wikipedia.org/wiki/Ubuntu">
      <img src="https://img.icons8.com/color/48/000000/ubuntu.png"
      alt="Ubuntu"
