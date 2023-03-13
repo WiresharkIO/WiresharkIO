@@ -27,31 +27,26 @@ I'm familiar with :
 <img src="https://img.icons8.com/color/48/000000/robot.png"
 alt="Robot"
 height="40"
-width="40"/></a>
-     
+width="40"/></a>   
 
 For now, you can check me out more on :
      
 <a href="https://www.linkedin.com/in/vishal-sivakumar-245a8b7a/">
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"
        alt="LinkedIn"
-       height="40"
+       height="45"
        width="40"/>
 </a><a href="https://medium.com/@gigageeks10.9">
-  <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"
+  <img src="https://user-images.githubusercontent.com/14985440/224611138-774d8bcc-42a9-48c6-b458-50cba656749e.png"
        alt="Medium"
-       height="40"
-       width="40"/>
-</a>
-<a href="https://www.hackerrank.com/WiresharkIO">
-     <img src="https://img.icons8.com/windows/32/000000/hackerrank.png" 
+       height="45"
+       width="105"/>
+</a><a href="https://www.hackerrank.com/WiresharkIO">
+     <img src="https://user-images.githubusercontent.com/14985440/224611612-9f9f1209-5f76-45ed-a2e4-3fcb37a97155.png" 
           alt="HackerRank" 
           width="40" 
-          height="40"/>
+          height="45"/>
 </a>
-
-
-
 
 I hope that, you will have a nice time here !!
 
