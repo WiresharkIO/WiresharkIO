@@ -15,7 +15,8 @@ I'm familiar with :
      alt="Ubuntu"
      height="40"
      width="40"/>
-<img src="https://img.icons8.com/color/48/000000/robot.png"
+<a href= "https://en.wikipedia.org/wiki/Robotics/">
+     <img src="https://img.icons8.com/color/48/000000/robot.png"
      alt="Robot"
      height="40"
      width="40"/>
