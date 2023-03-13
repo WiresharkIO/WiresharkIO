@@ -3,26 +3,35 @@ I’m currently studying embedded systems and informatics.
 
 I'm familiar with :
 
-<img src="https://img.icons8.com/dusk/64/000000/python.png"
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+     <img src="https://img.icons8.com/dusk/64/000000/python.png"
      alt="Python"
      height="40"
-     width="40"/>
-<img src="https://img.icons8.com/dusk/64/000000/c-programming.png"
+     width="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+     <img src="https://user-images.githubusercontent.com/14985440/224587459-d51b0bfe-dedb-4dfe-98dd-0c3180d79689.png"
      alt="C Programming"
      height="40"
-     width="40"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu.png"
+     width="40"/></a>
+<a href= "https://en.wikipedia.org/wiki/Cython">
+     <img src="https://user-images.githubusercontent.com/14985440/224587223-2a58a48d-5507-477e-9239-a58c4ef27c39.png"
+     alt="Cython"
+     height="40"
+     width="50"/></a>
+<a href="https://en.wikipedia.org/wiki/Ubuntu">
+     <img src="https://img.icons8.com/color/48/000000/ubuntu.png"
      alt="Ubuntu"
      height="40"
-     width="40"/>
-<a href= "https://en.wikipedia.org/wiki/Robotics/">
-     <img src="https://img.icons8.com/color/48/000000/robot.png"
-     alt="Robot"
-     height="40"
-     width="40"/>
+     width="40"/></a>
+<a href= "https://en.wikipedia.org/wiki/Robotics">
+<img src="https://img.icons8.com/color/48/000000/robot.png"
+alt="Robot"
+height="40"
+width="40"/></a>
      
-For now, you can check me out more on:
 
+For now, you can check me out more on :
+     
 <a href="https://www.linkedin.com/in/vishal-sivakumar-245a8b7a/">
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"
        alt="LinkedIn"
