@@ -1,5 +1,5 @@
 ### < Hey, welcome to this profile > 
-I’m currently studying Embedded Systems and Informatics, and also working as a Student-Research-Assistant on the topic of IOT, particularly in Cython Programming Language.
+I’m currently studying embedded systems and informatics.
 
 I'm familiar with :
 
