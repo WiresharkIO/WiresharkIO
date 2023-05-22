@@ -29,6 +29,9 @@ alt="Robot"
 height="40"
 width="40"/></a>   
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiresharkIO&layout=compact&theme=radical)](https://github.com/WiresharkIO)
+
 For now, you can check me out more on :
      
 <a href="https://www.linkedin.com/in/vishal-sivakumar-245a8b7a/">
@@ -49,6 +52,7 @@ For now, you can check me out more on :
 </a>
 
 I hope that, you will have a nice time here !!
+
 
 <!--
 **WiresharkIO/WiresharkIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
