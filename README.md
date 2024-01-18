@@ -1,7 +1,7 @@
-### < Hey, welcome to this hub > 
-I’m Vishal and I currently study Embedded systems and Informatics.
+I study things related to Embedded systems and Informatics.
+-------------------------------------------------------------------
 
-I'm familiar with :
+I have dealt with :-
 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
      <img src="https://img.icons8.com/dusk/64/000000/python.png"
@@ -31,7 +31,7 @@ width="40"/></a>
 
 
 
-
+<!--
 For now, you can check me out more on :
      
 <a href="https://www.linkedin.com/in/vishal-sivakumar-245a8b7a/">
@@ -50,10 +50,15 @@ For now, you can check me out more on :
           width="40" 
           height="45"/>
 </a>
-
-I hope that, you will have a nice time here !!
-
+-->
+-------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiresharkIO&layout=compact&theme=radical)](https://github.com/WiresharkIO)
+-------------------------------------------------------------------
+
+Reach via :-
+
+[<img width="40" alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/6c44c336-04f2-408a-818e-1ad2866831ed">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+-------------------------------------------------------------------
 <!--
 **WiresharkIO/WiresharkIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
