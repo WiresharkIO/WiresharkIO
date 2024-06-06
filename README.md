@@ -55,18 +55,17 @@ For now, you can check me out more on :
 -------------------------------------------------------------------
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiresharkIO&layout=compact&theme=radical)](https://github.com/WiresharkIO) -->
 
-
+<img width="400" align=middle alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/8d750d65-c549-4c1e-ba6a-f6f8bdd5bb3c">
 
 <p align="center">
-  <img width="400" align=middle alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/8d750d65-c549-4c1e-ba6a-f6f8bdd5bb3c">
+  
 </p>
 
-<p align="center"> 
-     
+    
 ```Shell
-                                             In this world of Humans, be a Voyager !! 
+In this world of Humans, be a Voyager !! 
 ```
-</p>
+
 
 
 <!--[<img width="40" alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/6c44c336-04f2-408a-818e-1ad2866831ed">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
