@@ -66,12 +66,10 @@ For now, you can check me out more on :
 
 
 
--------------------------------------------------------------------
 
-If you want to ask anything or if you find something wrong here
-
-[<img width="40" alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/6c44c336-04f2-408a-818e-1ad2866831ed">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
+<!--[<img width="40" alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/6c44c336-04f2-408a-818e-1ad2866831ed">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+-->
+[<img width="40" alt="image" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 -------------------------------------------------------------------
 <!--
 **WiresharkIO/WiresharkIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
