@@ -2,33 +2,7 @@
 I study things related to Embedded systems and Informatics.
 -------------------------------------------------------------------
 
-I have dealt with
-
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-     <img src="https://img.icons8.com/dusk/64/000000/python.png"
-     alt="Python"
-     height="40"
-     width="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-     <img src="https://user-images.githubusercontent.com/14985440/224587459-d51b0bfe-dedb-4dfe-98dd-0c3180d79689.png"
-     alt="C Programming"
-     height="40"
-     width="40"/></a>
-<a href= "https://en.wikipedia.org/wiki/Cython">
-     <img src="https://user-images.githubusercontent.com/14985440/224587223-2a58a48d-5507-477e-9239-a58c4ef27c39.png"
-     alt="Cython"
-     height="40"
-     width="70"/></a>
-<a href="https://en.wikipedia.org/wiki/Ubuntu">
-     <img src="https://img.icons8.com/color/48/000000/ubuntu.png"
-     alt="Ubuntu"
-     height="40"
-     width="40"/></a>
-<a href= "https://en.wikipedia.org/wiki/Robotics">
-<img src="https://img.icons8.com/color/48/000000/robot.png"
-alt="Robot"
-height="40"
-width="40"/></a>   
+ 
 
 
 
@@ -69,6 +43,37 @@ In this world of Humans, be a Voyager !!
 
 
 <!--[<img width="40" alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/6c44c336-04f2-408a-818e-1ad2866831ed">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+
+I have dealt with
+
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+     <img src="https://img.icons8.com/dusk/64/000000/python.png"
+     alt="Python"
+     height="40"
+     width="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+     <img src="https://user-images.githubusercontent.com/14985440/224587459-d51b0bfe-dedb-4dfe-98dd-0c3180d79689.png"
+     alt="C Programming"
+     height="40"
+     width="40"/></a>
+<a href= "https://en.wikipedia.org/wiki/Cython">
+     <img src="https://user-images.githubusercontent.com/14985440/224587223-2a58a48d-5507-477e-9239-a58c4ef27c39.png"
+     alt="Cython"
+     height="40"
+     width="70"/></a>
+<a href="https://en.wikipedia.org/wiki/Ubuntu">
+     <img src="https://img.icons8.com/color/48/000000/ubuntu.png"
+     alt="Ubuntu"
+     height="40"
+     width="40"/></a>
+<a href= "https://en.wikipedia.org/wiki/Robotics">
+<img src="https://img.icons8.com/color/48/000000/robot.png"
+alt="Robot"
+height="40"
+width="40"/></a>  
+
+
 -->
 [<img width="40" alt="image" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 -------------------------------------------------------------------
