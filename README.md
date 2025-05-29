@@ -1,10 +1,3 @@
--------------------------------------------------------------------
-### I study things related to Embedded systems and Informatics.
--------------------------------------------------------------------
-
- 
-
-
 
 <!--
 For now, you can check me out more on :
@@ -26,21 +19,22 @@ For now, you can check me out more on :
           height="45"/>
 </a>
 -->
--------------------------------------------------------------------
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiresharkIO&layout=compact&theme=radical)](https://github.com/WiresharkIO) -->
 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiresharkIO&layout=compact&theme=radical)](https://github.com/WiresharkIO) -->
+<!--
 <img width="400" align=middle alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/8d750d65-c549-4c1e-ba6a-f6f8bdd5bb3c">
 
 <p align="center">
   
 </p>
-
-    
-```Shell
-In this world of Humans, be a Voyager !! 
-```
+ -->
+<!-- ![Alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ2YXdlMTlmcXd4eHYzeGIwNTF6OXh6Mnh6M2Nmb3J0ems4NXVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdR7lqSbJq1319rri5/giphy.gif) -->
 
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ2YXdlMTlmcXd4eHYzeGIwNTF6OXh6Mnh6M2Nmb3J0ems4NXVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdR7lqSbJq1319rri5/giphy.gif" width="400" alt="Description" />
+</p>
 
 <!--[<img width="40" alt="image" src="https://github.com/WiresharkIO/WiresharkIO/assets/14985440/6c44c336-04f2-408a-818e-1ad2866831ed">](mailto:gigageeks10.9@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
